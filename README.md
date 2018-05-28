@@ -1,0 +1,2 @@
+# Unstructured-Data-Analytics
+1.Select 2 hotels that are located closely geographically and have at least 300 varied reviews/ratings on TripAdvisor. Build naïve Bayes and decision tree models using the data for the first hotel to predict the hotel rating. Calculate recall, precision and the F1 score for each model and identifythe better performing model. .Evaluate the knowledge transferability of the better performing model using the data for the second hotel. Use markdown cells to summarize your results.
